@@ -8,7 +8,7 @@ let x=0;
 //     x++;
 // }
 
-    setInterval(()=>{
+    setTimeout(()=>{
                 window.open("//ashoupsu.com/4/4594571");
            },7000);
        
