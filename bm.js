@@ -18,8 +18,8 @@ let x=0;
 
    
 
-setTimeout(()=>{
-                window.open("//ashoupsu.com/4/4594571");
-           },24000);
+// setTimeout(()=>{
+//                 window.open("//ashoupsu.com/4/4594571");
+//            },24000);
        
 
