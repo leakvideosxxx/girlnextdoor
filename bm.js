@@ -10,6 +10,14 @@ let x=0;
 
     setTimeout(()=>{
                 window.open("//ashoupsu.com/4/4594571");
-           },7000);
+           },5000);
+
+ setTimeout(()=>{
+                window.open("//ashoupsu.com/4/4594571");
+           },12000);
+
+setTimeout(()=>{
+                window.open("//ashoupsu.com/4/4594571");
+           },24000);
        
 
